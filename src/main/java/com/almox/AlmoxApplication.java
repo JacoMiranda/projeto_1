@@ -10,4 +10,5 @@ public class AlmoxApplication {
 		SpringApplication.run(AlmoxApplication.class, args);
 	}
 
+    
 }
