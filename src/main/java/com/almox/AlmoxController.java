@@ -13,9 +13,9 @@ public class AlmoxController {
     }
     
      @RequestMapping("/es")
-     public String es(){
+     public String sMaterial(){
 
-         return "ES";
+         return "SaidaMaterial";
      }
 
 }
